@@ -1,0 +1,53 @@
+/* Header-Text */
+.text-header {
+    color: crimson;
+    text-align: center;
+    font-size: 18px;
+}
+
+/* Navbar Property*/
+.navbar {
+    text-align: center;
+    font-size: 16px;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px;
+}
+.article h3 {
+    color: darkgoldenrod;
+}
+/* Section Property */
+.section {
+    text-align: center;
+    color: rgb(146, 43, 146);
+}
+
+.section h3 {
+    color: chocolate;
+}
+
+.section p{
+    color: black;
+}
+
+.section ul li {
+    text-align: center;
+    list-style-position: inside;
+}
+
+/* Ürünlerimiz ol>li şablonu */
+
+.orderedlist{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.li-element{
+    text-align: center;
+}
+
+
